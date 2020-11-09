@@ -9,6 +9,8 @@ with all the images used and the colors. The home page was also quite good, but 
 For the summary page, maybe try to make it into a few paragraphs? so it doesn't feel too crowded while reading. And also maybe try adding a background
 and some images would be a great way to spice up the page in my opinion.
 
+A side not, I tried looking up the contributors and it looks like only 2 people were involved in making the webpage when there should be 4?
+
 Anyways, good job guys! :)
 
-Mark = 70%
+Mark = 65%
