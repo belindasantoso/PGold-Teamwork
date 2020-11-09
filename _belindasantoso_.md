@@ -13,4 +13,4 @@ A side not, I tried looking up the contributors and it looks like only 2 people 
 
 Anyways, good job guys! :)
 
-Mark = 65%
+Mark = 62%
